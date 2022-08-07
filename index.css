@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+.text {
+    color: #808080;
+}
+
+.indextitle {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+span {
+    background-color: #BBEEEE;
+}
+.desc {
+    font-size: medium;
+}
+
+.subtext {
+    text-align: center;
+    
+}
+
