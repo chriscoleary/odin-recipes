@@ -10,13 +10,22 @@ body {
 
 #title {
     font-size: xx-large;
-    font-weight: bold;
+    font-weight: bolder;
     font-style: italic;
 }
 
 
-.heading {
+.heading, .foodpic {
     text-align: center;
+}
+
+#subtitle, #title {
+    color: white;
+}
+
+#subtitle {
+    font-size: 26px;
+    font-weight: bold;
 }
 
 
